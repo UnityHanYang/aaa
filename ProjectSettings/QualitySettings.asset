@@ -18,7 +18,11 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 0
+<<<<<<< HEAD
     skinWeights: 1
+=======
+    blendWeights: 1
+>>>>>>> main
     textureQuality: 1
     anisotropicTextures: 0
     antiAliasing: 0
@@ -27,7 +31,10 @@ QualitySettings:
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 0
     vSyncCount: 0
+<<<<<<< HEAD
     realtimeGICPUUsage: 25
+=======
+>>>>>>> main
     lodBias: 0.3
     maximumLODLevel: 0
     streamingMipmapsActive: 0
@@ -41,7 +48,10 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
+<<<<<<< HEAD
     customRenderPipeline: {fileID: 0}
+=======
+>>>>>>> main
     excludedTargetPlatforms: []
   - serializedVersion: 2
     name: Low
@@ -55,7 +65,11 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 0
+<<<<<<< HEAD
     skinWeights: 2
+=======
+    blendWeights: 2
+>>>>>>> main
     textureQuality: 0
     anisotropicTextures: 0
     antiAliasing: 0
@@ -64,7 +78,10 @@ QualitySettings:
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 0
     vSyncCount: 0
+<<<<<<< HEAD
     realtimeGICPUUsage: 25
+=======
+>>>>>>> main
     lodBias: 0.4
     maximumLODLevel: 0
     streamingMipmapsActive: 0
@@ -78,7 +95,10 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
+<<<<<<< HEAD
     customRenderPipeline: {fileID: 0}
+=======
+>>>>>>> main
     excludedTargetPlatforms: []
   - serializedVersion: 2
     name: Medium
@@ -92,7 +112,11 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 0
+<<<<<<< HEAD
     skinWeights: 2
+=======
+    blendWeights: 2
+>>>>>>> main
     textureQuality: 0
     anisotropicTextures: 1
     antiAliasing: 0
@@ -101,7 +125,10 @@ QualitySettings:
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 0
     vSyncCount: 1
+<<<<<<< HEAD
     realtimeGICPUUsage: 25
+=======
+>>>>>>> main
     lodBias: 0.7
     maximumLODLevel: 0
     streamingMipmapsActive: 0
@@ -115,7 +142,10 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
+<<<<<<< HEAD
     customRenderPipeline: {fileID: 0}
+=======
+>>>>>>> main
     excludedTargetPlatforms: []
   - serializedVersion: 2
     name: High
@@ -129,7 +159,11 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 1
+<<<<<<< HEAD
     skinWeights: 2
+=======
+    blendWeights: 2
+>>>>>>> main
     textureQuality: 0
     anisotropicTextures: 1
     antiAliasing: 0
@@ -138,7 +172,10 @@ QualitySettings:
     realtimeReflectionProbes: 1
     billboardsFaceCameraPosition: 1
     vSyncCount: 1
+<<<<<<< HEAD
     realtimeGICPUUsage: 50
+=======
+>>>>>>> main
     lodBias: 1
     maximumLODLevel: 0
     streamingMipmapsActive: 0
@@ -152,7 +189,10 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
+<<<<<<< HEAD
     customRenderPipeline: {fileID: 0}
+=======
+>>>>>>> main
     excludedTargetPlatforms: []
   - serializedVersion: 2
     name: Very High
@@ -166,7 +206,11 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 1
+<<<<<<< HEAD
     skinWeights: 4
+=======
+    blendWeights: 4
+>>>>>>> main
     textureQuality: 0
     anisotropicTextures: 2
     antiAliasing: 2
@@ -175,7 +219,10 @@ QualitySettings:
     realtimeReflectionProbes: 1
     billboardsFaceCameraPosition: 1
     vSyncCount: 1
+<<<<<<< HEAD
     realtimeGICPUUsage: 50
+=======
+>>>>>>> main
     lodBias: 1.5
     maximumLODLevel: 0
     streamingMipmapsActive: 0
@@ -189,7 +236,10 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
+<<<<<<< HEAD
     customRenderPipeline: {fileID: 0}
+=======
+>>>>>>> main
     excludedTargetPlatforms: []
   - serializedVersion: 2
     name: Ultra
@@ -203,7 +253,11 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 1
+<<<<<<< HEAD
     skinWeights: 255
+=======
+    blendWeights: 4
+>>>>>>> main
     textureQuality: 0
     anisotropicTextures: 2
     antiAliasing: 2
@@ -212,7 +266,10 @@ QualitySettings:
     realtimeReflectionProbes: 1
     billboardsFaceCameraPosition: 1
     vSyncCount: 1
+<<<<<<< HEAD
     realtimeGICPUUsage: 100
+=======
+>>>>>>> main
     lodBias: 2
     maximumLODLevel: 0
     streamingMipmapsActive: 0
@@ -226,6 +283,7 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
+<<<<<<< HEAD
     customRenderPipeline: {fileID: 0}
     excludedTargetPlatforms: []
   m_PerPlatformDefaultQuality:
@@ -239,6 +297,18 @@ QualitySettings:
     PS4: 5
     PS5: 5
     Server: 5
+=======
+    excludedTargetPlatforms: []
+  m_PerPlatformDefaultQuality:
+    Android: 2
+    Lumin: 5
+    GameCoreScarlett: 5
+    GameCoreXboxOne: 5
+    Nintendo 3DS: 5
+    Nintendo Switch: 5
+    PS4: 5
+    PS5: 5
+>>>>>>> main
     Stadia: 5
     Standalone: 5
     WebGL: 3
